@@ -1,1 +1,1 @@
-RL exercise~
+RL exercise and note~
